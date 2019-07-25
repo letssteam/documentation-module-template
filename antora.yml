@@ -1,0 +1,5 @@
+name: hardware-technical-specification
+title: Hardware Technical Specification documentation
+version: 'latest'
+nav:
+- modules/ROOT/nav.adoc
